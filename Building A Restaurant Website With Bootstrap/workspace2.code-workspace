@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\Web Tech 10am"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\Team Budget Planner"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Building A Restaurant Website With Bootstrap"
+	}
+}
